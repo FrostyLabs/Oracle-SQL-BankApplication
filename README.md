@@ -5,7 +5,7 @@ This coursework had us redesign a banking entity relational database into an obj
 
 ----------------
 
-How this repository works: 
+# How this repository works: 
 
 1. Setup database: run reset_tables.sql 
 2. Add member functions to types: run alter_types.sql 
