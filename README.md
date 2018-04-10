@@ -1,4 +1,4 @@
-# Oracle-SQL-Coursework
+# Oracle SQL Coursework
 SET09107: Advanced Database Systems - Coursework
 
 This coursework had us redesign a banking entity relational database into an object relational database. 
